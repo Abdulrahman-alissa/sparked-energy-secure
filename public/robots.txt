@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3bf1494 (update site)
 # Allow all bots to crawl the entire site
 User-agent: *
 Allow: /
