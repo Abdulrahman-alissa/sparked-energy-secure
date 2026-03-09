@@ -82,7 +82,7 @@ const WhyChooseUs = () => {
 
         <div className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-8 p-8 rounded-2xl bg-card border border-border shadow-md">
           {[
-            { value: "500+", label: "Projects Completed" },
+            { value: "250+", label: "Projects Completed" },
             { value: "10+", label: "Years Experience" },
             { value: "98%", label: "Client Satisfaction" },
             { value: "24/7", label: "Support Available" },
